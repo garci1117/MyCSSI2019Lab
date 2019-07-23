@@ -12,18 +12,18 @@ html {
 /* Color each language element */
 #ruby {background-color: #B22222;}
 #python {background-color: #32CD32;}
-#js {background-color: #0005ff;}
+#js {background-color: #1E90FF;}
 #hyper {background-color: #32CD32;}
-#css {background-color: #090900;}
-#aframe {background-color: #FFFFE0;}
-#p5 {background-color: #FFFFE0;}
-#bootstrap {background-color: #0005AA;}
-#java {background-color: #0005ff;}
+#css {background-color: #AFEEEE;}
+#aframe {background-color: #F0E68C;}
+#p5 {background-color: #F0E68C;}
+#bootstrap {background-color: #AFEEEE;}
+#java {background-color: #1E90FF;}
 #swift {background-color: #B22222;}
 
 /* Style the .row elements */
 .row {
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.0);
   margin: 10px;
   min-height: 120px;
   display:flex;
